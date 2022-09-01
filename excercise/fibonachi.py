@@ -12,3 +12,5 @@ def fibonachi(n):
 for i in range(1, 10):
     answer = fibonachi(i)
     print(answer)
+
+# print(fibonachi(10))
