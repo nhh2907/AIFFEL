@@ -1,24 +1,25 @@
-AIFFEL
-AIFFEL 교육내용 정리
+# [AIFFEL] 교육 내용
 
-exploration
-Classification
-Regression
-Kaggle
-Time Serise Prediction
-Computer Vision
-Natural Language
-Image Porcessing
-Movie Review Classification
-Selective Focus
-Make Translater
-GAN
-News Summary
-Recommendation System(Matrix Factorization)
-Transformer Chatbot
-OCR
-Movielens(Session Based Recommendation)
-data analistic
-모두카페 매출 데이터 분석
-data thon
-Sanfransisco Crime Data Snalisis
+### Exploration
+01. Classification
+02. Linear Regression
+03. Kaggle
+04. Time Serise
+05. Computer Vision
+06. Natural Language
+07. Image Porcessing
+08. Sentiment Analysis
+09. Segmentation
+10. Translater
+11. GAN
+12. News Summary
+13. Recommendation System(Matrix Factorization)
+14. Transformer Chatbot
+15. OCR
+16. Recommender System(Session Based Recommendation)
+
+### DataAnalysis
+01. 모두카페 매출 데이터 분석
+
+### DataThone
+01. Sanfransisco Crime Data Snalisis
