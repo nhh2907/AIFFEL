@@ -22,4 +22,4 @@
 01. 모두카페 매출 데이터 분석
 
 ### DataThone
-01. Sanfransisco Crime Data Snalisis
+01. Sanfransisco Crime Data Analysis
